@@ -1,0 +1,19 @@
+{
+  "name": "nodejs-eval-example",
+  "version": "0.0.0",
+  "description": "nodejs-eval-example",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/christkv/nodejs-eval-example.git"
+  },
+  "dependencies": {
+    "mongodb": "latest",
+    "express": "latest"
+  },
+  "author": "",
+  "license": "BSD"
+}
